@@ -138,6 +138,4 @@ JWT_SECRET=BlockAI-JWT-SECRET
 
 ---
 
-## License
-This project is licensed under the ISC License.
 
